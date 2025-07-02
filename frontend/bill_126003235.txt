@@ -1,0 +1,7 @@
+Electricity Bill
+====================
+Consumer ID: 126003235
+Name       : sathiyasri
+Units      : 500
+Amount     : ₹1450.0
+Date       : 2025-07-01
